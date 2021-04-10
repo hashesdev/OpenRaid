@@ -164,4 +164,4 @@ client.on('message', message => {
   }
 });
 
- client.login("ODMwMjUxMjE1NjU2NzE0MzEw.YHD9sw.QCoIVGLXLtrn0vZVsh5Bi_wexWg");
+ client.login("Tu token");
