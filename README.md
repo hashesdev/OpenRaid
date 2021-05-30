@@ -13,7 +13,7 @@ Codigo abierto de bot raid para Discord!
 
 (Se necesita node.js)
 
-Descargar desde GitHub o git clone https://github.com/hashesterminal/Kalistenia.git
+Descargar desde GitHub o git clone https://github.com/hashesterminal/OpenRaid.git
 Entrar al directorio
 Editarlo (Cambiarle el token en la parte final de abajo)
 Terminal: node main.js
